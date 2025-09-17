@@ -14,17 +14,17 @@ body {
 }
 
 header {
-    background-color: rgba(0, 0, 0, 0.952);
+    background-color: rgba(0, 0, 0, 0.959);
     color: lightgray;
     border-radius: 10px;
     text-align: center;
     margin: auto;
-    margin-bottom: 4px;
+    margin-bottom: 2px;
 }
 
 header img {
     padding-top: 20px;
-    max-width: 200px;
+    max-width: 180px;
     border-radius: 20px;
     display: block;
     margin: auto;
@@ -45,10 +45,11 @@ p {
 }
 
 main {
-    background-color:rgba(211, 211, 211, 0.452);
+    background-color: rgba(0, 0, 0, 0.842);
+    color: lightgray;
     margin: auto;
     border-radius: 15px;
-    box-shadow: 4px 2px 15px 4px rgba(0, 0, 0, 0.116);
+    box-shadow: 4px 2px 15px 4px rgba(0, 0, 0, 0.295);
     text-align: center;
     min-width: 150px;
     max-width: 850px;
